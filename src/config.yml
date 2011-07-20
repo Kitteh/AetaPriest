@@ -1,0 +1,20 @@
+Info:
+    Version: 0.5
+Spells:
+    Heal:
+        Cooldown: 15
+        Amount: 10
+    HealSelf:
+        Cooldown: 20
+        Amount: 6
+    BuffAttack:
+        Cooldown: 50
+        Amount: 2
+        Duration: 600
+    BuffDefence:
+        Cooldown: 50
+        Amount: 2
+        Duration: 600
+    Resurrect:
+        Cooldown: 600
+        Distance: 100
